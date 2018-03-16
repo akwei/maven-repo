@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>halo</groupId>
+  <artifactId>halo-query</artifactId>
+  <versioning>
+    <versions>
+      <version>4.0.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20180316095305</lastUpdated>
+  </versioning>
+</metadata>
